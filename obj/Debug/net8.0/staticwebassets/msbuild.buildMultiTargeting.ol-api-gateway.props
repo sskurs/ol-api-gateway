@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ol-api-gateway.props" />
+</Project>

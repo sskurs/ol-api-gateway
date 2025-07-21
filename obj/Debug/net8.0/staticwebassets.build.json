@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Zt6Jovoukee5afO+uBfzCbYDOh4hCrTbNlQbDEWCs8w=",
+  "Source": "ol-api-gateway",
+  "BasePath": "_content/ol-api-gateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,6 @@
+@ol_api_gateway_HostAddress = http://localhost:5213
+
+GET {{ol_api_gateway_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
